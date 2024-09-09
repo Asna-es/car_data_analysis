@@ -1,1 +1,1 @@
-# cardekho_analysis
+The purpose of this analysis is to gain insight into the used cars listed for sale. the goal is to identify basic trends and insights that can guide decosion making  for both sellers and buyers. The data includes information about various carmodels, their selling prices,mileage,Torque,power and other key features
